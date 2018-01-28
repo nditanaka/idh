@@ -28,6 +28,7 @@
 
 	ol, ul {
 		list-style: none;
+		background-color: #00000033;
 	}
 
 	blockquote, q {
